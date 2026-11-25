@@ -1,0 +1,1 @@
+Atividade guiada 1. Os horários e o endereço da página são fictícios e foram criados para a atividade. Abra esta pasta no VS Code e inicie pelo Go Live. Confira que o endereço começa com `http://127.0.0.1:5500` e que salvar atualiza a página.
