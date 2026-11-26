@@ -1,0 +1,36 @@
+Árvore de elementos (pai/filho/irmãos/descendente):
+html
+├── head
+│   ├── meta charset
+│   ├── meta viewport
+│   ├── meta description
+│   └── title
+└── body
+    ├── header
+    │   ├── h1
+    │   └── nav
+    │       └── ul
+    │           └── li → a (itens do menu)
+    ├── main
+    │   ├── section#missao
+    │   │   ├── h2
+    │   │   └── p
+    │   ├── section#ajudar
+    │   │   ├── h2
+    │   │   └── ul
+    │   │       └── li (itens)
+    │   ├── section#depoimentos
+    │   │   ├── h2
+    │   │   ├── article
+    │   │   │   ├── h3
+    │   │   │   └── p
+    │   │   └── article (segundo depoimento)
+    │   └── section#parceiros
+    │       ├── h2
+    │       └── ul → li (parceiros)
+    └── footer
+        └── p
+
+Pai e filhos marcados: section#depoimentos (pai) contém h2 e os dois article (filhos).
+Três irmãos: section#missao, section#ajudar e section#depoimentos são filhos de main.
+Descendente de main que não é filho direto: h3 dentro de article, dentro de section#depoimentos.

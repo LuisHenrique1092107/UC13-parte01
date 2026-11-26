@@ -1,0 +1,1 @@
+Atividade 18 — Raio-X do Portal da Cidade de Pouso Alegre. O relato registra a análise da página inicial. O arquivo index.html apresenta uma versão simples com HTML semântico. Para concluir a entrega, salve duas capturas reais da aba Elements em docs: elements-topo.png e elements-conteudo.png.
