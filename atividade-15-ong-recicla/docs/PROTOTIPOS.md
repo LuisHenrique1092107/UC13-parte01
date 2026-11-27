@@ -1,0 +1,11 @@
+# Protótipos — ONG Recicla Bairro
+
+Os protótipos ficam nesta pasta `docs`, junto do `index.html`, como orienta a Aula 3. O HTML desta aula continua igual ao da Aula 2.
+
+[Abrir o diagrama no diagrams.net](https://app.diagrams.net/?offline=1#R3Zndc%2BIgEMD%2Fmrx2EqPVPqrV3j3cpzN3zwhrQktChhA%2F7q%2B%2FJSFqRHvOtM2Y8yEDyxLYn8uyBC%2BcJtsVF%2BD1%2FFjm2gsfvV6PZNkd4yRSJMnvUtAowna9y6BqZ7DmFIw0nHnh1KqiSkoSq%2FLt6xPWfwLlVBAsTQhXSmLBm%2FW8ke899LG8EsXWyJh5rKUoUu1NQ28cKC73b0%2B2T4pk8RfJQBjdbTVAEPh%2BNS%2B2qySjwAoixZlVOggW%2FI%2Bd2l6t4AzyhqKWUmieNYVUpilQ3ZARNGbTVFtJ0Rw1IxE4ggUlwpX%2B5kzHp3aZhk%2FAo1g37CuhKCl1jWcKwoCpba56zy%2B07gdVkOprOpCqw5qIws77F8%2B5JqmGqiXXu9oi7InwsDLZxFzDIiPUtGzw%2F0NZrBOBtQCL6HFiKoVUZb8Qyh%2FKc63kCxy1VD9ssbMApWF70ZLg2GlAJqDVDlVsh37fgrX%2BEg6q6uYI%2FsiqxEfc762M2P872r%2F5gA0Lltx5ikuH4lSmMZhF5JvlkfA8L10%2FlA5VJYuUAbPobpJsr0k2qOtHaGs%2Fa6AdvgNa6jpoSXJcLt3EhBbyXDCi%2FgOwvTbBMgfsjwKUQVg%2BT%2BN1OHcBxzJZFnlH4Ia9wXVwHwZvhwsO3O8KIKWxiQiUMGJM76LHhk2o%2FcEZqP4HeezKgbpPO4iGlHHWRTc9ITq4968j%2Bh5uGp3bt9bc7P3GhHLrKjRX3d27hsMTvKMWQ2zs4P2MXkpJiXO4h%2Bozw7tKqdEyClyRDqIeXEG6%2F0GkuUN6zhMvNEnC%2BpDP%2BjxdSZUQJruW257sZUP%2FSi9%2Bj%2BT2%2BTLbrIwMk3DLy0Ts1Vhx24RP40SrhCFw43AMkQm%2FxHDN%2BbnTGMPjpq1KpWMZyZSI2UE6OYQMv0kY98qxOeFidSkkfalEcy5qhWowM8LrOHFCslAUGmdJTVQE%2Buhg5EJXIIjm6%2Bbb30Sw948TGCVFTjrAcOkypG0xDB2Gj%2FiBh9lkQHPKszPHrNtjSF2GrC2GfYfhAoPl7TNjLjNoi9nAYfb14ibSBXC8LXD3DrgZZu%2FktSPm7QEEF%2BCqLYDDjq7WlcssaovZqMur9Qy4uC1wDw64MR71tFmusrqHWHcjz4tciM9tQaxvdxpf1iQtym8VJJPmZslHW4noAMi4tb0Dq4c7pbLt6NatFtYXfQel8uownP0F)
+
+- [fluxo-voluntario.drawio](./fluxo-voluntario.drawio)
+
+![fluxo voluntario](./fluxo-voluntario.png)
+
+- [fluxo-voluntario.svg](./fluxo-voluntario.svg)

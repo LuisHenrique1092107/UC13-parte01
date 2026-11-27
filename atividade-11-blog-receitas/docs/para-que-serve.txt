@@ -1,0 +1,2 @@
+Componente: permite corrigir o desenho uma vez e atualizar todos os cartões de receita.
+Variável: permite trocar uma cor nomeada uma vez e aplicar a mudança nos cartões que a usam.

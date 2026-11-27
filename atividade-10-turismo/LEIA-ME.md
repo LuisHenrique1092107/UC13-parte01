@@ -8,3 +8,6 @@ Atividade autônoma 10. O site contém index.html, destinos.html e contato.html,
 4. O servidor localiza index.html e envia uma resposta com status 200 (sucesso) e o conteúdo do arquivo.
 5. O navegador interpreta o HTML e mostra a página. Ao clicar nos links, envia novas requisições para destinos.html ou contato.html.
 
+## Protótipos da Aula 3
+
+Os protótipos deste site e seus links estão em [docs/PROTOTIPOS.md](docs/PROTOTIPOS.md).
